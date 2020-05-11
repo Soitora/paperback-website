@@ -30,7 +30,7 @@
 	},
 	"dependencies": {
 		"axios": "^0.19.2",
-		"core-js": "^2.6.11",
+		"core-js": "^3.6.5",
 		"eslint-plugin-jsx-a11y": "^6.2.3",
 		"eslint-plugin-react": "^7.19.0",
 		"eslint-plugin-react-hooks": "^2.5.1",
