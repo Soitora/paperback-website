@@ -32,7 +32,7 @@
 		"axios": "^0.19.2",
 		"core-js": "^2.6.11",
 		"eslint-plugin-jsx-a11y": "^6.2.3",
-		"eslint-plugin-react": "^7.19.0",
+		"eslint-plugin-react": "^7.21.3",
 		"eslint-plugin-react-hooks": "^2.5.1",
 		"prettier-config-vuepress": "^1.0.0",
 		"vuepress-theme-yuu": "^2.3.0"
